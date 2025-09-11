@@ -8,7 +8,15 @@ public class Week2 {
 
     public static void main(String[] args) {
 
-            example2();
+            example3();
+    }
+    static void example3(){
+
+        Rectangle r1 = new Rectangle(8, 5);
+        Rectangle r2 = new Rectangle(4, 10);
+
+        System.out.println(r1.haveSameArea(r2));
+        System.out.println(r2.haveSamePerimeter(r1));
     }
     static void example2(){
 
