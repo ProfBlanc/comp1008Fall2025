@@ -1,0 +1,12 @@
+Create a Student class
+    Name: min 3 chars
+    Age: b/t 18-65
+code getters and setter, enforcing the restriction above
+code 3 constructors (Default, 1-String, 1-Age, 1 that takes String, Age
+set default values for Name and Age that are within limit
+create a static variable to represent min and max age & min # of chars for name
+create a factory method: MatureStudent => age be between 30-65
+Create StudentTests: unit Testing classs
+    1 test that tests default constructor with 3 assertions
+    1 ParameterizedTest that tests the 1-String arg constructor, with 3 asseertions
+    1 ParameterizedTest that tests the 1-int arg constructor, with 3 asseertions

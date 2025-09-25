@@ -1,0 +1,7 @@
+Unit Testing
+    Testing methods for a given behaviour
+        should have a way of determining the result of the method
+
+        1) calling/execution of a method
+        2) expected result
+        3) actual/given result
