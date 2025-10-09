@@ -1,0 +1,22 @@
+Create a class named Course
+	code: 4 letter followed up 4 numbers
+		EXCEPTION if not at method signature/header level
+	char semester: either W, F, S
+		EXCEPTION if not at method signature/header level
+	create getters and setters for above
+	create 2-arg constructor:
+		call the setters inside the constructor
+
+
+Continually ask the user two for 2 even numbers
+When user correctly inputs 2 even numbers
+Add those two numbers together
+
+while loop
+	why while? indterminate
+counter that tracks how many even numbers inputted
+array or arraylist to add valid numbers to array
+try to convert user input to int
+catch invalid values, restart loop
+if two valid values have been entered. BREAK out of loop
+calculate sums
